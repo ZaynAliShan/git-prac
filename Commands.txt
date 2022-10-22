@@ -1,0 +1,16 @@
+// git init
+// git clone <urL>
+// git checkout master
+// git branch branchname
+// git add .
+// git status
+// git commit -m "Message here"
+// git push 
+// git pull
+// git remote remove origin
+// git remote -v
+// git remote add origin <url>
+// git push --set-upstream origin master
+// git merge branchname (Branch to be mergerd)
+// git merge --abort (in case of merge conflicts)
+// git merge --continue (in case of merge conflicts)
